@@ -13,3 +13,7 @@ create new directory and html file
 update the coconut_curry.html
 
     Hmtl file has been updated with an image (and alt text) and text 
+
+create two new recipes files 
+
+    Two new html receipe files created and linked to index
