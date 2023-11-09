@@ -10,3 +10,6 @@ create new directory and html file
 
     New directory contains a new html file that's linked to index.html
 
+update the coconut_curry.html
+
+    Hmtl file has been updated with an image (and alt text) and text 
